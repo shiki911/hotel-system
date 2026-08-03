@@ -4,9 +4,9 @@ The Current Results is basically our team's resort to finish this sooner.
 And we hope so with our souls :D
 
 Team =
-- Dimas [Leader] 
-- Andrean
-- Selo
+- DS [Leader] 
+- A
+- SL (shiki911)
 
 Tugas Besar Praktikum Daspro
 
