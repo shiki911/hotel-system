@@ -1,5 +1,6 @@
 # hotel-system
 First Look:
+
 <img width="431" height="356" alt="image" src="https://github.com/user-attachments/assets/9b834222-1643-4567-a241-18982d80fc6d" />
 
 
