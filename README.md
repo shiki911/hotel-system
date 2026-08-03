@@ -1,5 +1,5 @@
 # hotel-system
-/*
+/
 README
 The Current Results is basically our team's resort to finish this sooner.
 And we hope so with our souls :D
@@ -29,8 +29,10 @@ note from the coder(s) :
 "Yeah we know this code isn't anywhere near good,
 Especially our way on using enum. Which only flags (hope for now tho).
 So, We hope that you'd give a full feedback. We are OPEN for any feedbacks!"
+/
 
-*/
+How this works:
+When one runs this file, a .db file shall be made that contains some informations that connected through the code.
 
 Initial name for privacy purposes
 
