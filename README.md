@@ -1,4 +1,8 @@
 # hotel-system
+First Look:
+<img width="431" height="356" alt="image" src="https://github.com/user-attachments/assets/9b834222-1643-4567-a241-18982d80fc6d" />
+
+
 /
 README
 The Current Results is basically our team's resort to finish this sooner.
@@ -32,7 +36,7 @@ So, We hope that you'd give a full feedback. We are OPEN for any feedbacks!"
 /
 
 How this works:
-When one runs this file, a .db file shall be made that contains some informations that connected through the code.
+When one runs (until the end) this file, a .db file shall be made that contains some informations that connected through the code.
 
 Initial name for privacy purposes
 
